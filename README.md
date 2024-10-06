@@ -1,0 +1,2 @@
+# Strategy-Example
+Стратегія
